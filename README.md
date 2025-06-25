@@ -86,5 +86,5 @@ HTML         5 mins          ░░░░░░░░░░░░░░░░░
 ---
 
 <div align="center">
-  <h3>⭐️ From <a href="https://github.com/yourusername">yourusername</a></h3>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=" alt="Typing SVG" />
 </div>

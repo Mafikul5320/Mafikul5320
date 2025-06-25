@@ -15,7 +15,7 @@ I'm a passionate Full Stack Developer with expertise in modern web technologies.
 - 🌱 I'm currently exploring **Next.js**
 - 👯 I'm looking to collaborate on **open source projects**
 - 💬 Ask me about **React, Node.js, MongoDB, and JavaScript**
-- 📫 How to reach me: **mdmafikulislam5320@gmail.com**
+- 📫 How to reach me: <a href="mailto:mdmafikulislam5320@gmail.com> **mdmafikulislam5320@gmail.com**</a>
 - ⚡ Fun fact: **I love solving complex problems with simple solutions**
 
 ## 🛠️ Tech Stack
@@ -71,7 +71,7 @@ HTML         5 mins          ░░░░░░░░░░░░░░░░░
   <p>Let's build something amazing together 🚀</p>
   
    <p>
-    <a href="mailto:your.email@example.com">
+    <a href="mailto:mdmafikulislam5320@gmail.com">
       <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
     </a>
     <a href="https://linkedin.com/in/your-profile">

@@ -15,7 +15,7 @@ I'm a passionate Full Stack Developer with expertise in modern web technologies.
 - 🌱 I'm currently exploring **Next.js**
 - 👯 I'm looking to collaborate on **open source projects**
 - 💬 Ask me about **React, Node.js, MongoDB, and JavaScript**
-- 📫 How to reach me: <a href="mailto:mdmafikulislam5320@gmail.com> **mdmafikulislam5320@gmail.com**</a>
+- 📫 How to reach me: <a href="mailto:mdmafikulislam5320@gmail.com"> **mdmafikulislam5320@gmail.com**</a>
 - ⚡ Fun fact: **I love solving complex problems with simple solutions**
 
 ## 🛠️ Tech Stack

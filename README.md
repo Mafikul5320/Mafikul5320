@@ -1,4 +1,4 @@
-![Header](https://images.pexels.com/photos/574071/pexels-photo-574071.jpeg?auto=compress&cs=tinysrgb&w=1200&h=300&fit=crop)
+![Header]([https://images.pexels.com/photos/574071/pexels-photo-574071.jpeg?auto=compress&cs=tinysrgb&w=1200&h=300&fit=crop](https://ibb.co/WpDpFm4k))
 
 <h1 align="center">Hi 👋, I'm Mafikul Islam</h1>
 <h3 align="center">MERN Stack Developer</h3>
@@ -9,39 +9,38 @@
 
 ## 🚀 About Me
 
-I'm a passionate Full Stack Developer with expertise in modern web technologies. I love creating efficient, scalable solutions and am always eager to learn new technologies.
+I'm a motivated Frontend Developer focused on learning and building with modern web technologies. I love creating efficient, scalable solutions and am always eager to learn new technologies.
 
-- 🔭 I'm currently working on **a tourism website using MERN stack**
 - 🌱 I'm currently exploring **Next.js**
 - 👯 I'm looking to collaborate on **open source projects**
 - 💬 Ask me about **React, Node.js, MongoDB, and JavaScript**
-- 📫 How to reach me: <a href="mailto:mdmafikul.islam53@gmail.com"> **mdmafikulislam5320@gmail.com**</a>
+- 📫 How to reach me: <a href="mailto:mdmafikul.islam53@gmail.com"> **mdmafikul.islam53@gmail.com**</a>
 - ⚡ Fun fact: **I love solving complex problems with simple solutions**
 
 ## 🛠️ Tech Stack
 
 <div align="center">
-  ### Frontend
+  Frontend
 <p>
     <img src="https://skillicons.dev/icons?i=react,nextjs,javascript,html,css,tailwind" alt="Frontend Skills"/>
   </p>
 </div>
 
 <div align="center">
-  ### Backend
+  Backend
 <p>
     <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase" alt="Backend Skills"/>
   </p>
 </div>
 
 <div align="center">
-  ### Tools & Others
+  Tools & Others
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,netlify,vercel" alt="Backend Skills"/>
 </p>
 </div>
 
-## 📊 GitHub Stats
+📊 GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=yourusername&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
@@ -54,8 +53,7 @@ I'm a passionate Full Stack Developer with expertise in modern web technologies.
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
 </div>
-
-## 📈 Weekly Development Breakdown
+📈 Weekly Development Breakdown
 
 ```text
 JavaScript   12 hrs 30 mins  ████████████████████▓░░░░   82.5%

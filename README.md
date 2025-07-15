@@ -1,4 +1,4 @@
-![Header](https://i.ibb.co/5gm0RMLF/White-Yellow-Blue-Modern-Business-Marketing-Seek-Cover-Image.png)
+![Header](https://i.ibb.co/b5fzrVZT/Mafikul-Web-Developer.png)
 
 <h1 align="center">Hi 👋, I'm Mafikul Islam</h1>
 <h3 align="center">MERN Stack Developer</h3>

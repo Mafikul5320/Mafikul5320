@@ -20,27 +20,29 @@ I'm a motivated Frontend Developer focused on learning and building with modern 
 ## 🛠️ Tech Stack
 
 <div align="center">
-  Frontend
+ ## Frontend
 <p>
     <img src="https://skillicons.dev/icons?i=react,nextjs,javascript,html,css,tailwind" alt="Frontend Skills"/>
   </p>
 </div>
 
 <div align="center">
-  Backend
+  ## Backend
+  
 <p>
     <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase" alt="Backend Skills"/>
   </p>
 </div>
 
 <div align="center">
-  Tools & Others
+ ## Tools & Others
+  
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,netlify,vercel" alt="Backend Skills"/>
 </p>
 </div>
 
-📊 GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=yourusername&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />

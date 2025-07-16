@@ -74,13 +74,13 @@ HTML         5 mins          ░░░░░░░░░░░░░░░░░
   <p>Let's build something amazing together 🚀</p>
   
    <p>
-    <a href="mailto:mdmafikulislam5320@gmail.com">
+    <a href="mailto:mdmafikul.islam53@gmail.com">
       <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
     </a>
-    <a href="https://linkedin.com/in/your-profile">
+    <a href="https://www.linkedin.com/in/mafikulislam">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
     </a>
-    <a href="https://your-portfolio.com">
+    <a href="https://portfolio-blush-seven-29.vercel.app">
       <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
     </a>
   </p>

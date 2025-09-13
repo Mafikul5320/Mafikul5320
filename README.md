@@ -66,7 +66,6 @@ TypeScript   2 hrs 15 mins   ███▓░░░░░░░░░░░░░
 CSS          20 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░░    2.2%
 HTML         5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░░    0.3%
 ```
-![Hits](https://hits.sh/github.com/Mafikul5320/hits.svg?style=for-the-badge&label=Profile%20Views&color=blue)
 
 ---
 

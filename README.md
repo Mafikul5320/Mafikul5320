@@ -66,7 +66,7 @@ TypeScript   2 hrs 15 mins   ███▓░░░░░░░░░░░░░
 CSS          20 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░░    2.2%
 HTML         5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░░    0.3%
 ```
-![Visitors](https://komarev.com/ghpvc/?username=Mafikul5320&label=👀%20Visitors&color=ff69b4&style=for-the-badge)
+![Hits](https://hits.sh/github.com/Mafikul5320/hits.svg?style=for-the-badge&label=Profile%20Views&color=blue)
 
 ---
 

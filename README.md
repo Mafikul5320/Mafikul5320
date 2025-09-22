@@ -47,17 +47,14 @@ I'm a motivated Frontend Developer focused on learning and building with modern 
 
 <h1 align="center">GitHub Stats</h1>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-</div>
+![Stats](https://github-readme-stats.vercel.app/api?username=mafikul5320&show_icons=true&hide_border=false&bg_color=0D1117&title_color=00FF99&text_color=FFFFFF&icon_color=00FF99)
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=dark&hide_border=false" alt="GitHub Streak" />
-</div>
+![GitHub Streak](https://streak-stats.demolab.com?user=mafikul5320&theme=vue-dark&background=0D1117&ring=00FF99&fire=00FF99&currStreakLabel=00FF99)
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
-</div>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mafikul5320&layout=compact&bg_color=0D1117&title_color=00FF99&text_color=FFFFFF)
+
+
 📈 Weekly Development Breakdown
 
 ```text

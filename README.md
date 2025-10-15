@@ -55,14 +55,6 @@ I'm a motivated Frontend Developer focused on learning and building with modern 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mafikul5320&layout=compact&bg_color=0D1117&title_color=00FF99&text_color=FFFFFF)
 
 
-📈 Weekly Development Breakdown
-
-```text
-JavaScript   12 hrs 30 mins  ████████████████████▓░░░░   82.5%
-TypeScript   2 hrs 15 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   15.0%
-CSS          20 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░░    2.2%
-HTML         5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░░    0.3%
-```
 
 ---
 
